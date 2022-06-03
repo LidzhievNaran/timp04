@@ -4,5 +4,5 @@
 
 int main()
 {
-    formatter(std::cout, "hello, world!");//formatter
+    formatter(std::cout, "hello, world!");//formatter lib
 }
