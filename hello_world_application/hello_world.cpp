@@ -4,5 +4,5 @@
 
 int main()
 {
-    formatter(std::cout, "hello, world!");//formatter stuff
+    formatter(std::cout, "hello, world!");//formatter
 }
